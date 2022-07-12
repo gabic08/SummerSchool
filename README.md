@@ -10,7 +10,6 @@ A Web site for a summer school
 - A page showing the calendar (“Calendar”)
 - A contact page ("Contact")
 The site will need to be able to navigate between those pages.
-/n
 
 2) The site must contain also:
 a) News management (addition, modification, deletion);
