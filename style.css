@@ -1,0 +1,198 @@
+#navigation-bar {
+    background : #030528;
+    height: 40px;
+    padding-top : 25px;
+    padding-bottom: 15px;
+    text-align : left;
+    font-size: 25px;
+    color : #FFFFFF;
+    font-weight: bold;
+    border-bottom: 2px solid #850000;
+    border-top: 2px solid #850000;
+}
+
+#navigation-bar a:visited, #navigation-bar a:link {
+    text-decoration : none;
+    color : #FFFFFF;
+}
+
+#navigation-bar a:hover {
+    /*text-decoration : underline;*/
+    color : #850000;
+}
+
+
+
+#logo {
+    margin-top : 1%;
+    margin-bottom : 1.5%;
+}
+#logo h1 {
+    padding-left: 10px;
+    font : normal 30px Georgia, serif;
+    color : #ffffff;
+    margin : 5px 0px 0px 0px;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#logo2 {
+    margin-top : 1%;
+    margin-bottom : 1.5%;
+}
+#logo2 h1 {
+    padding-left: 10px;
+    font : normal 30px Georgia, serif;
+    color : #ffffff;
+    margin : 5px 0px 0px 0px;
+    font-weight: bold;
+    font-size: 35px;
+    border-left: solid 10px orange;
+    margin-left: 40px;
+}
+
+#Adresa{
+    background: none;
+    background : rgba(0, 0, 0, 0.6);
+}
+
+#Adresa h2{
+    color: white;
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+#Adresa a {
+    color: white;
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 100;
+    color : #ffffff;
+}
+
+#Adresa a:hover {
+    color : #1900f6;
+}
+
+#Adresa p{
+    color: white;
+    margin-left: 40px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+
+
+#left-column {
+    width : 80%;
+    height: 60%;
+    float : left;
+    padding-top: 0px;
+    padding-bottom: 2%;
+    padding-left: 0px;
+    border-top : 0px solid #ffffff;
+    padding-right: 20%;
+}
+
+
+
+#header {
+    margin : 0px 0 0 0px;
+}
+#footer {
+    background : rgba(0, 0, 0, 0.9);
+    border-top : 1px solid #ffffff;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    height: 6s0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+#footer a:visited, #footer a:link {
+    text-decoration : none;
+    color : #ffffff;
+}
+
+#footer a:hover {
+    text-decoration : underline;
+    color : #ffffff;
+}
+
+#container {
+    margin : 0 auto;
+    width : 90%;
+    border-left : 45px solid #850000;
+    border-top : 45px solid #030528;
+    border-right: 2px solid #850000;
+    
+}
+
+#bodyhome {
+    background-color: #ded2d2;
+    background-image: url("Images/fundal.jpg");
+   }
+
+
+
+
+#text{
+    font-size: 30px;
+    font-weight: 200;
+    margin-top: 100px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    background : rgba(0, 0, 0, 0.5);
+}
+
+
+#table{
+    font-size: 100px;
+    border:3px solid white;
+    color:white; 
+    background-color: rgba(0, 0, 0, 0.8); 
+    font-size:30px; 
+    padding:10px; 
+    font-weight:bold;
+}
+
+#Map{
+    padding-left: 150px;
+}
+
+
+
+#Admin{
+    font-size: 30px;
+    font-weight: 200;
+    margin-top: 100px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    background : rgba(0, 0, 0, 0.5);
+}
+
+#Admin a {
+    color: white;
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+#Admin a:hover {
+    color : #850000;
+}
+
+#Admin a:visited, #Admin a:link {
+    text-decoration : none;
+    color : #FFFFFF;
+}
+
+
