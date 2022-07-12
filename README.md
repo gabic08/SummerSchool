@@ -12,7 +12,7 @@ A Web site for a summer school
 The site will need to be able to navigate between those pages.
 
 2) The site must contain also:
-/na) News management (addition, modification, deletion);
+\na) News management (addition, modification, deletion);
 b) Management of the list of courses (addition, modification, deletion);
 c) Registration of participants and display of the list of registered participants.
 d) Protection of the administration section by user and password.
