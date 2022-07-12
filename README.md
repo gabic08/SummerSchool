@@ -5,7 +5,7 @@ A Web site for a summer school
 - A page with general information about the summer school (“Home”)
 - A page showing the list of courses (“Courses”)
 - A page that introduces course trainers (“Trainers”)
-- A page presenting the organizers of summer schools (“Organizers”)
+- A page presenting the organizers of summer school (“Organizers”)
 - A page presenting the news (“News”)
 - A page showing the calendar (“Calendar”)
 - A contact page ("Contact")
