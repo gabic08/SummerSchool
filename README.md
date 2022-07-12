@@ -2,11 +2,11 @@
 A Web site for a summer school
 
 1) The organizers of a summer school want to create a site to promote it. It must include:
-- A page with general information about summer school (“Home”)
+- A page with general information about the summer school (“Home”)
 - A page showing the list of courses (“Courses”)
 - A page that introduces course trainers (“Trainers”)
 - A page presenting the organizers of summer schools (“Organizers”)
-- A page that includes / news (“News”)
+- A page presenting the news (“News”)
 - A page showing the calendar (“Calendar”)
 - A contact page ("Contact")
 The site will need to be able to navigate between those pages.
