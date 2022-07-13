@@ -15,4 +15,4 @@ The site will need to be able to navigate between those pages.
  <br>a) News management (addition, modification, deletion);
 <br>b) Management of the list of courses (addition, modification, deletion);
 <br>c) Registration of participants and display of the list of registered participants.
-<br>d) Protection of the administration section by user and password.
+<br>d) Protection of the administration section by user and password (username is "admin" and password is "parola").
