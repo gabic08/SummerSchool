@@ -8,7 +8,7 @@ A Web site for a summer school
 - A page presenting the organizers of summer school (“Organizers”)
 - A page presenting the news (“News”)
 - A page showing the calendar (“Calendar”)
-- A contact page ("Contact")<br.
+- A contact page ("Contact")<br>
 The site will need to be able to navigate between those pages.
 
 2) The site must contain also:
